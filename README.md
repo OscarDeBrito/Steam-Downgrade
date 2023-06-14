@@ -1,7 +1,7 @@
 ## 🖥️ Visão Geral
 
 <p align="justify"> &emsp;&emsp;
-  Somos um grupo de estudantes da disciplina Orientação a Objetos na Universidade de Brasília. Criamos esse repositório com o propósito de ser o projeto final, no qual criaremos uma versão básica focada no conteúdo da discplina regente, onde a base será a plataforma de jogos conhecida como "Steam"
+  Somos um grupo de estudantes da disciplina Orientação a Objetos na Universidade de Brasília. Criamos esse repositório com o propósito de ser o projeto final, no qual criaremos uma versão básica focada no conteúdo da discplina regente, onde a base será a plataforma de jogos conhecida como "Steam".
 </p>
 
 ## 🧑‍💻 Desenvolvedores
@@ -39,6 +39,24 @@
           <b><a href="https://github.com/OscarDeBrito">Oscar de Brito</a></b>
         </sub>
       </a>
+    </td>
+  </tr>
+</table>
+
+## 🖥️ Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/leomitx10/Steam-Downgrade/main/Steam_Downgrade/Screenshots/Captura%20de%20tela%20de%202023-02-20%2015-23-48.png" width="200px;" alt="Foto do Oscar no GitHub"/><br>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/leomitx10/Steam-Downgrade/main/Steam_Downgrade/Screenshots/Captura%20de%20tela%20de%202023-02-20%2015-24-14.png" width="200px;" alt="Foto do Oscar no GitHub"/><br>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/leomitx10/Steam-Downgrade/main/Steam_Downgrade/Screenshots/Captura%20de%20tela%20de%202023-02-20%2015-58-23.png" width="200px;" alt="Foto do Oscar no GitHub"/><br>
+    </td>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/leomitx10/Steam-Downgrade/main/Steam_Downgrade/Screenshots/Captura%20de%20tela%20de%202023-02-20%2015-59-24.png" width="200px;" alt="Foto do Oscar no GitHub"/><br>
     </td>
   </tr>
 </table>
